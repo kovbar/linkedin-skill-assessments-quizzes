@@ -75,7 +75,7 @@ my_list
 >>>[2,3]
 ```
 
-#### Q8. What is one of the most common use of Python's sys library?
+#### Q8. What is one of the most common use of Python's sys library? / What is a common use of Phyton's sys library?
 
 - [x] to capture command-line arguments given at a file's runtime
 - [ ] to connect various systems, such as connecting a web front end, an API service, a database, and a mobile app
